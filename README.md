@@ -12,3 +12,10 @@ https://koajs.com/#introduction
         });
 
         app.listen(3000);
+
+
+### Info
+https://github.com/koajs/koa/wiki#middleware
+
+### Swagger
+koa-joi-swagger - Using joi schema to validate request & response, and generate swagger document to create beautiful API documents.
