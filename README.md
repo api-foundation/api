@@ -15,11 +15,19 @@ https://koajs.com/#introduction
 
 ## Fastify
 https://www.fastify.io/
+https://github.com/fastify/fastify
 
-### Info
+#### fastify-swagger
+Swagger documentation generator for Fastify. It uses the schemas you declare in your routes to generate a swagger compliant doc.
+https://github.com/fastify/fastify-swagger
+fastify-swagger/examples/dynamic.js
+
+#### fastify-cli
+Command line tools for Fastify. Generate, write and run an application with one single command!
+https://github.com/fastify/fastify-cli
+
+## Koa Info
 https://github.com/koajs/koa/wiki#middleware
-
-### Swagger
 
 ### koa-joi-swagger 
 Using joi schema to validate request & response, and generate swagger document to create beautiful API documents.
